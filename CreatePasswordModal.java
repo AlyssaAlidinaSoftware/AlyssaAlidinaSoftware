@@ -1,5 +1,3 @@
-package com.comp3008.gui;
-
 import java.awt.GridBagConstraints;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
